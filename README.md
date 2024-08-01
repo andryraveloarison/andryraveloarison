@@ -1,7 +1,7 @@
 Hi 👋 My name is Andry RAVELOARISON
 ===================================
 
-Developper JS
+Developper JS 
 -------------
 
 * 🌍  I'm based in Madagascar
