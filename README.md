@@ -2,7 +2,7 @@ Hi 👋 My name is Andry RAVELOARISON
 ===================================
 
 Developper FullStack JS 
--------------
+--------------
 
 * 🌍  I'm based in Madagascar 
 * 🖥️  See my portfolio at [My portfolio](http://andryraveloarison.vercel.app/)
