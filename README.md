@@ -1,7 +1,7 @@
 Hi 👋 My name is Andry RAVELOARISON
 ===================================
   
-Developper FullStack JS  
+Developper FullStack JS   
 -------------------
 
 * 🌍  I'm based in Madagascar 
